@@ -21,6 +21,7 @@ int main()
 {
 	setlocale(LC_ALL, "ru");
 	Foo(10);
+	cout << "добавленое тестовое изменение" << endl;
 	cout << "Основоная функция закончила работу" << endl;
 
 	return 0;
