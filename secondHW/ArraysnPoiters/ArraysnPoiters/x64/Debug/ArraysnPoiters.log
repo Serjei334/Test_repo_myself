@@ -1,6 +1,0 @@
-﻿  Source.cpp
-C:\Users\Serjei\Test_Program_C\ArraysnPoiters\ArraysnPoiters\Source.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Serjei\Test_Program_C\ArraysnPoiters\ArraysnPoiters\Source.cpp(48,12): warning C4101: z: неиспользованная локальная переменная
-C:\Users\Serjei\Test_Program_C\ArraysnPoiters\ArraysnPoiters\Source.cpp(48,9): warning C4101: y: неиспользованная локальная переменная
-C:\Users\Serjei\Test_Program_C\ArraysnPoiters\ArraysnPoiters\Source.cpp(48,6): warning C4101: x: неиспользованная локальная переменная
-  ArraysnPoiters.vcxproj -> C:\Users\Serjei\Test_Program_C\ArraysnPoiters\x64\Debug\ArraysnPoiters.exe
