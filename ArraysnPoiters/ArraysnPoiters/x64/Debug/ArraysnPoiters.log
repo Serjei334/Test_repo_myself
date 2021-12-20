@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\Serjei\Desktop\GitStudy\Test_repo_myself\secondHW\ArraysnPoiters\ArraysnPoiters\main.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  ArraysnPoiters.vcxproj -> C:\Users\Serjei\Desktop\GitStudy\Test_repo_myself\secondHW\ArraysnPoiters\x64\Debug\ArraysnPoiters.exe
