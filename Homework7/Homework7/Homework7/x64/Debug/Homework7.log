@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Serjei\Test_Program_C\Homework7\Homework7\Source.cpp(59,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Serjei\Test_Program_C\Homework7\Homework7\Source.cpp(60,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Homework7.vcxproj -> C:\Users\Serjei\Test_Program_C\Homework7\x64\Debug\Homework7.exe
